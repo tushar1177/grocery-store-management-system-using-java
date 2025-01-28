@@ -58,19 +58,4 @@ Key features include:
 
 ---
 
-## ⚙️ Usage
-
-Upon running the program, you'll be greeted with a main menu that allows you to perform various operations like:
-
-1. Add a new product
-2. View products
-3. Update or delete products
-4. Process a customer's bill
-5. Search for a product by name or category
-
-Choose an option by entering the corresponding number.
-
----
-
-## 📁 Project Structure
 
